@@ -2,7 +2,7 @@
 
 ### Continuous learning
 - 👷 Graduated at Computer Engineer
-- 💻 Now I'm learning Java in my virtual machine (VMware) and review git 
+- 💻 Now I'm currently learning Java in my virtual machine (VMware) and reviewing git 
 - 👨‍💼 Searching job as backend Jr C# or Java 💟
 - 🌎  I'm native of south america, at Brazil and I speak a little of English and trying to learn deutsch
 - ⚡ Fun facts: I have a fliperama in a raspberry 🖤 I know a little about APH(something like treatment pré-rescue at Brazil) because a do trails and camp and always somebody get hurt. Prevention it's always better than pay the price!🩹
