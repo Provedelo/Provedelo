@@ -40,7 +40,7 @@
   ## Ouvindo ⏯️
  <div>
    
-   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/6WyRTNwP841gS0LL7CYUjb?si=0910f6adb6824cc6)
+   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31kih67p32e4qtlxefzzsci5lhue?si=g5IuXRkBSPiGTogoGbS4QA)
  
   </div>
   
