@@ -1,24 +1,25 @@
-## Eu sou o Angelo 🖖:space_invader:
+## Hello There! I'm Angelo, nice to meet you! 🖖:space_invader:
 
-### Aprendizado continuo
-- 👷 Formado em Engenharia da Computação
-- 💻 Atualmente aprendendo Java em Maquina vitutal (VMware) e Revendo Git 
-- 👨‍💼 Procurando trabalho como dev Jr de C# ou Java 💟
-- ⚡ Curiosidade: Tenho um fliperama em uma raspberry e sei um pouco de APH porque faço trilhas e sempre tem alguem que "capota mas nao breca"! 
+### Continuous learning
+- 👷 Graduated at Computer Engineer
+- 💻 Now I'm learning Java in my virtual machine (VMware) and review git 
+- 👨‍💼 Searching job as backend Jr C# or Java 💟
+- 🌎  I'm native of south america, at Brazil and I speak a little of English and trying to learn deutsch
+- ⚡ Fun facts: I have a fliperama in a raspberry 🖤 I know a little about APH(something like treatment pré-rescue at Brazil) because a do trails and camp and always somebody get hurt. Prevention it's always better than pay the price!🩹
 
 ---
 ## Github
 <div align="center">
   <a href="https://github.com/provedelo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=provedelo&custom_title=Sumário&locale=pt-BR&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=provedelo&layout=compact&custom_title=Linguagens&theme=swift&langs_count=10"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=provedelo&custom_title=Summary&locale=en&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=provedelo&layout=compact&custom_title=Languages&theme=swift&langs_count=10"/>
 </div>
 <div align="center">
      
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=provedelo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
  
-## Habilidades   <img align="right" alt="Pic" height="60" style="border-radius:80px;" src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif">
+## Hardskills   <img align="right" alt="Pic" height="60" style="border-radius:80px;" src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif">
 
   <div style="display: inline_block"><br>
   <img align="center" alt="CPure"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
@@ -29,7 +30,7 @@
 </div>
 
  ---
- ## Como entrar em contato?!  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="right">
+ ## How get in contact with me?!  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="right">
 <div>
   <a href="https://www.linkedin.com/in/provedelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/provedelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -37,10 +38,10 @@
   </div>
   
 
-  ## Ouvindo ⏯️
+  ## Check-out my Spotify playlist!⏯️
  <div>
    
-   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31kih67p32e4qtlxefzzsci5lhue?si=235f2b36dd78408d)
+   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/6WyRTNwP841gS0LL7CYUjb)
  
   </div>
   
@@ -49,3 +50,5 @@
   ![Snake animation](https://github.com/Provedelo/Provedelo/blob/output/github-contribution-grid-snake.svg)
 
 ---
+  
+  <h5>Thank-you for read my profile and have a nice day!🖤</h5>
