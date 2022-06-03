@@ -2,8 +2,8 @@
 
 ### Continuous learning
 - 👷 Graduated at Computer Engineer
-- 💻 Now I'm currently learning Java with Spring boot in my virtual machine (VMware) and a little of React
-- 👨‍💼 Searching job as backend Jr C# or Java 💟
+- 💻 Now I'm currently learning Java with Spring boot in my virtual machine (VMware)
+- 👨‍💼 Searching job as backend Jr Java 💟
 - 🌎  I'm native of south america, at Brazil and I speak a little of English and trying to learn deutsch
 - ⚡ Fun facts: I have a fliperama in a raspberry 🖤 I know a little about APH(poorly translate something like rescue and pré-treatment hospital at Brazil) because a do trails and camp and always somebody get hurt. Prevention it's always better than pay the price!🩹
 
