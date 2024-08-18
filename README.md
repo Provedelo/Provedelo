@@ -1,10 +1,10 @@
 ## Hello There! I'm Angelo, nice to meet you! 🖖👾
 
 ### Continuous learning
-- 👷 Graduated at Computer Engineer and working as Technical Support Engineer
-- 💻 Now I'm currently learning Java with Spring boot in my virtual machine (VMware)
-- 👨‍💼 Searching job as backend Jr Java 💟
-- 🌎  I'm native of south america, at Brazil and I speak a little of English and trying to learn deutsch
+- 👷 Graduated at Computer Engineer
+- 💻 Now I'm currently learning Python
+- 👨‍💼 Working as Technical Support Engineer 💟
+- 🌎  I'm native of south america, at Brazil and I capable to communicate a little bit in English, worked in UK and PT for some months and I'm trying to learn deutsch (hard as hell this one! hahaha) 
 - ⚡ Fun facts: I have a fliperama in a raspberry 🖤 I know a little about APH(poorly translate something like rescue and pré-treatment hospital at Brazil) because a do trails and camp and always somebody get hurt. Prevention it's always better than pay the price!🩹
 
 ---
