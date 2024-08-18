@@ -1,7 +1,7 @@
-## Hello There! I'm Angelo, nice to meet you! 🖖:space_invader:
+## Hello There! I'm Angelo, nice to meet you! 🖖👾
 
 ### Continuous learning
-- 👷 Graduated at Computer Engineer
+- 👷 Graduated at Computer Engineer and working as Technical Support Engineer
 - 💻 Now I'm currently learning Java with Spring boot in my virtual machine (VMware)
 - 👨‍💼 Searching job as backend Jr Java 💟
 - 🌎  I'm native of south america, at Brazil and I speak a little of English and trying to learn deutsch
@@ -27,10 +27,14 @@
   <img align="center" alt="Java"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="MySql"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MSSql"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Python"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Trello"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+  <img align="center" alt="VStudio"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"> 
+    
 </div>
 
  ---
- ## How get in contact with me?!  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="right">
+ ## How get in touch?!  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="right">
 <div>
   <a href="https://www.linkedin.com/in/provedelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/provedelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
